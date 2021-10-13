@@ -31,7 +31,6 @@ import com.huawei.hms.scene.sdk.render.Resource;
 import com.huawei.hms.scene.sdk.render.Transform;
 import com.huawei.hms.scene.sdk.ux.ar.ARNode;
 import com.huawei.hms.scene.sdk.ux.ar.ARView;
-import com.huawei.hms.scene.sdk.ux.base.utils.*
 
 /**
  * ARViewActivity
