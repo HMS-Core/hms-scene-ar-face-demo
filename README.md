@@ -21,7 +21,8 @@ The SceneKitARFaceDemo app demonstrates a sample using the RenderView to call th
 3. Create an app and configure the app information in AppGallery Connect.
 See details: [HUAWEI Scene Kit Development Preparation](https://developer.huawei.com/consumer/en/doc/development/graphics-Guides/dev-process-0000001064186384)
 4. To build this demo, please first import the demo in the Android Studio (3.5+).
-5. Run the sample on your Android device or emulator.
+5. Some features of ARView and FaceView of fine-grained graphics API can only be used with AREngineServer installed. Make sure you have installed the app on your device.
+6. Run the sample on your Android device or emulator.
 
 ## Supported-Environments
 
