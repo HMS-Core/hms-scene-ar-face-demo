@@ -21,7 +21,8 @@
    3. 创建应用并在AppGallery连接中配置应用信息。
       详情请查看: [华为图形引擎服务开发指南](https://developer.huawei.com/consumer/cn/doc/development/graphics-Guides/dev-process-0000001064186384)。
    4. 为了保证工程构建成功，请使用3.5版本以上的Android Studio。
-   5. 在您的设备或模拟器上运行示例代码。
+   5. 场景化接口ARView、FaceView部分特性依赖AREngineServer，需确认您的设备上已安装AREngineServer。
+   6. 在您的设备或模拟器上运行示例代码。
 
 ## 开发环境
 
