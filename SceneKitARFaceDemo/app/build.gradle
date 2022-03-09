@@ -35,6 +35,6 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
 
     implementation 'com.huawei.scenekit:scenekit-ux-ar:6.0.0.301'
-    implementation 'com.huawei.scenekit:scenekit-render-extension:6.0.0.301'
-    implementation 'com.huawei.scenekit:scenekit-ar-ml-extension:6.0.0.301'
+    implementation 'com.huawei.scenekit:scenekit-render-extension:6.2.0.300'
+    implementation 'com.huawei.scenekit:scenekit-ar-ml-extension:6.2.0.300'
 }
