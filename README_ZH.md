@@ -29,6 +29,7 @@
 * Android Stuido 3.5.0及以上版本
 * JDK 1.8（推荐）
 * targetSdkVersion：28（推荐）
+* AREngine Server：3.12.0及以上版本
 * HMS Core (APK) 4.0.2.300及以上版本
 * EMUI 10.0及以上版本
 
