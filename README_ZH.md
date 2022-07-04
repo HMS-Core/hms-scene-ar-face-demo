@@ -31,7 +31,7 @@
 * targetSdkVersion：28（推荐）
 * AREngine Server：3.12.0及以上版本
 * HMS Core (APK) 4.0.2.300及以上版本
-* EMUI 10.0及以上版本
+* EMUI 10.0及以上版本（推荐）
 
 ## 运行结果
 
