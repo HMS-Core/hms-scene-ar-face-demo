@@ -31,7 +31,7 @@ See details: [HUAWEI Scene Kit Development Preparation](https://developer.huawei
 * targetSdkVersion: 28 (recommended)
 * AREngine Server: 3.12.0 or later
 * HMS Core (APK) 4.0.2.300 or later
-* EMUI 10.0 or later
+* EMUI 10.0 or a later version is recommended.
 
 ## Result
 
